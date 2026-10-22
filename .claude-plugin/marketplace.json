@@ -1,0 +1,12 @@
+{
+  "name": "qingshan-dong",
+  "owner": { "name": "qingshan-dong" },
+  "plugins": [
+    {
+      "name": "writing-agents-md",
+      "description": "新建、审阅或修改常驻 Agent 规则文件（AGENTS.md、CLAUDE.md、GEMINI.md、Cursor rules）：提重点、找冲突、归类下沉、标删除、出稿走读、交付。",
+      "source": "./",
+      "version": "1.0.0"
+    }
+  ]
+}
